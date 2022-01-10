@@ -36,6 +36,10 @@ bld/
 !dependencies/GLEW/bin/Release/*
 !dependencies/GLEW/bin/Release/Win32/*
 !dependencies/GLEW/bin/Release/x64/*
+!dependencies/GLEW/lib/*
+!dependencies/GLEW/lib/Release/*
+!dependencies/GLEW/lib/Release/Win32/*
+!dependencies/GLEW/lib/Release/x64/*
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
