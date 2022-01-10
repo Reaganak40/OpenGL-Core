@@ -27,10 +27,15 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+# Exclude from ignore rules
+!dependencies/GLEW/bin/*
+!dependencies/GLEW/bin/Release/*
+!dependencies/GLEW/bin/Release/Win32/*
+!dependencies/GLEW/bin/Release/x64/*
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
